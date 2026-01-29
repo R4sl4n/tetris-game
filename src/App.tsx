@@ -6,7 +6,7 @@ function App() {
           🎮 Tailwind работает! 🎉
         </h1>
         <p className="text-2xl text-blue-300">
-          Готовы строить Tetris?
+           Tetris
         </p>
       </div>
     </div>
